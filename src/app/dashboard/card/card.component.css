@@ -1,3 +1,12 @@
-.example-card {
-    max-width: 400px;
-  }
+:host {
+  max-width: 360px;
+}
+.skill-card {
+  font-family: inherit;
+  font-weight: 400;
+  color: #002333;
+}
+
+.mat-spinner {
+  margin: 0 auto;
+}

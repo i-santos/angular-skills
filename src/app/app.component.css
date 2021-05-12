@@ -1,4 +1,3 @@
-p {
-  font-family: Lato;
+#app {
+  min-height: 100vh;
 }
-
